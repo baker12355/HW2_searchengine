@@ -18,3 +18,7 @@
         do the set operating associate with p={p1,p2...}, and return the outpput    #exaple: (3,5,7) and (3,6,7)  = (3,7)
 
 ## end      
+
+# Flowchart
+
+![Alt text](https://github.com/baker12355/Searchengine/blob/master/temp.png "Optional title")
