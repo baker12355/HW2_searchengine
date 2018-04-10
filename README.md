@@ -1,3 +1,8 @@
+
+## Create table
+
+![Alt text](https://github.com/baker12355/Searchengine/blob/master/Create_table.png)
+
 # pseudo code
 
 ## start:
@@ -22,3 +27,5 @@
 # Flowchart
 
 ![Alt text](https://github.com/baker12355/Searchengine/blob/master/temp.png "Optional title")
+
+
